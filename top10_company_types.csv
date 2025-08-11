@@ -1,0 +1,501 @@
+Title,Reviews,Ratings,Company Type,Salaries,Total Interviews,Total Jobs,Founded Year,Company Age,Websites
+TCS,93700,3.7,IT Services & Consulting,890000,10700,177,1996.0,29,tcs.com
+Accenture,59300,3.8,IT Services & Consulting,590000,8400,8800,1989.0,36,accenture.com
+Wipro,55100,3.7,IT Services & Consulting,450000,5800,4100,1945.0,80,careers.wipro.com
+Cognizant,52400,3.7,IT Services & Consulting,570000,5700,204,1994.0,31,cognizant.com
+Capgemini,43900,3.7,IT Services & Consulting,440000,4900,2000,1967.0,58,capgemini.com
+HDFC Bank,41300,3.9,Banking,140000,2300,529,1994.0,31,hdfcbank.com
+Infosys,41100,3.6,IT Services & Consulting,480000,7700,2400,1981.0,44,infosys.com
+ICICI Bank,39500,4.0,Banking,150000,2500,22,1994.0,31,icicibank.com
+HCLTech,37800,3.5,IT Services & Consulting,340000,4000,227,1991.0,34,hcltech.com
+Tech Mahindra,36600,3.5,IT Services & Consulting,270000,3900,712,1986.0,39,techmahindra.com
+Genpact,33000,3.8,IT Services & Consulting,210000,3200,461,1997.0,28,genpact.com
+Teleperformance,31000,3.9,BPO,91500,1800,380,1978.0,47,teleperformance.com
+Concentrix Corporation,27400,3.8,BPO,120000,1700,137,1983.0,42,concentrix.com
+Axis Bank,26500,3.8,Banking,99500,1500,202,1993.0,32,axisbank.com
+Amazon,26200,4.1,Internet,130000,5100,2200,1994.0,31,amazon.jobs
+Jio,24300,4.0,Telecom,62200,2000,116,2018.0,7,jio.com
+iEnergizer,23400,4.6,BPO,22800,675,216,2000.0,25,ienergizer.com Company contact no.8588894888 E-mailinfo@iEnergizer.com
+Reliance Retail,23200,3.9,Retail,66900,1600,119,2006.0,19,relianceretail.com
+IBM,23200,4.0,IT Services & Consulting,200000,2400,1000,1911.0,114,ibm.com
+LTIMindtree,21900,3.8,IT Services & Consulting,180000,3000,414,1997.0,28,ltimindtree.com
+HDB Financial Services,21100,3.9,NBFC,50000,841,177,2007.0,18,hdbfs.com
+Larsen & Toubro Limited,19400,4.0,Engineering & Construction,69600,1500,152,1938.0,87,larsentoubro.com
+Deloitte,18500,3.8,Management Consulting,190000,2900,127,1845.0,180,www2.deloitte.com
+Kotak Mahindra Bank,17700,3.7,Banking,82500,1100,61,2003.0,22,kotak.com
+Reliance Industries ,16700,4.0,Oil & Gas,68600,1300,28,1977.0,48,ril.com
+BYJU'S,16300,3.1,EdTech,58600,2100,0,2011.0,14,byjus.com
+Vodafone Idea,15800,4.0,Telecom,53200,567,24,2018.0,7,myvi.in
+Bharti Airtel,14200,4.0,Telecom,46700,892,182,1952.0,73,airtel.in
+WNS,12500,3.4,BPO,63300,1100,111,1996.0,29,wns.com
+Tata Motors,12300,4.2,Automobile,41100,1000,14,1945.0,80,tatamotors.com
+AU Small Finance Bank,12000,4.2,Banking,26200,544,74,1996.0,29,aubank.in
+IndusInd Bank,11500,3.5,Banking,49100,641,2900,1994.0,31,indusind.com
+Flipkart,11100,3.9,Internet,49200,1400,113,2007.0,18,flipkart.com
+Ernst & Young,11300,3.4,Management Consulting,120000,1200,2100,2002.0,23,ey.com
+IDFC FIRST Bank,10800,3.9,Banking,44900,683,44,2018.0,7,idfcfirstbank.com
+DXC Technology,10400,3.7,IT Services & Consulting,74700,808,203,2017.0,8,dxc.com
+Infosys BPM ,10200,3.6,BPO,67100,974,73,2002.0,23,infosysbpm.com
+Mahindra & Mahindra,10100,4.1,Automobile,37300,700,54,1945.0,80,mahindra.com
+Bajaj Finserv,9800,4.0,Financial Services,27400,543,21,2007.0,18,bajajfinserv.in
+PwC,9600,3.4,Management Consulting,93300,1400,2000,1880.0,145,pwc.com
+HDFC Life,9500,4.0,Insurance,31100,635,135,2000.0,25,hdfclife.com
+Conneqt Business Solutions,9100,3.6,BPO,27000,486,355,2002.0,23,conneqtcorp.com
+Mphasis,8700,3.4,IT Services & Consulting,69000,820,159,1998.0,27,mphasis.com
+Bandhan Bank,8100,3.7,Banking,23400,571,2,2001.0,24,bandhanbank.com
+Yes Bank,8100,3.7,Banking,42400,452,348,2004.0,21,yesbank.in
+Startek,7900,3.1,Unknown,23700,490,58,2017.0,8,startek.com
+Paytm,7700,3.3,FinTech,32299,765,468,2010.0,15,paytm.com
+Tata Steel,7700,4.1,Iron & Steel,30500,882,0,1907.0,118,tatasteel.com
+Asian Paints,7700,4.0,Chemicals,23000,663,29,1942.0,83,asianpaints.com
+Quess,7700,3.9,BPO,29000,433,71,2007.0,18,quesscorp.com
+Maruti Suzuki,7500,4.2,Automobile,25300,611,779,1981.0,44,marutisuzuki.com
+UltraTech Cement,7500,4.2,Building Material,22600,607,90,1983.0,42,ultratechcement.com
+Samsung,7400,3.9,Consumer Electronics & Appliances,26300,559,6,1969.0,56,samsung.com
+Sutherland Global Services,7300,3.5,IT Services & Consulting,30800,651,197,1986.0,39,sutherlandglobal.com
+Shriram Finance,7400,4.1,NBFC,13700,356,20,1979.0,46,shriramfinance.in
+Ericsson,7400,4.1,Telecom,42200,419,154,1876.0,149,ericsson.com
+EXL Service,7400,3.7,Analytics & KPO,40400,760,79,1999.0,26,exlservice.com
+Cipla,7100,4.1,Pharma,24500,499,87,1935.0,90,cipla.com
+Muthoot Fincorp,7100,4.5,NBFC,8400,524,37,1887.0,138,muthootfincorp.com
+HGS,7000,3.8,BPO,22800,247,22,2000.0,25,joinhgs.com
+Dr. Reddy's,7000,4.0,Pharma,24400,411,18,1984.0,41,drreddys.com
+Bajaj Finance,7000,4.0,NBFC,21400,321,83,1987.0,38,bajajfinserv.in
+Wells Fargo,6700,3.8,Financial Services,51100,590,194,1852.0,173,wellsfargojobs.com E-mailprivacy.emea@wellsfargo.com
+Amazon Development Centre India,6500,4.1,Internet,33000,778,17,Not Available,0,amazon.com
+ICICI Prudential Life Insurance,6400,4.1,Insurance,21400,404,411,2000.0,25,iciciprulife.com
+JPMorgan Chase & Co.,6400,3.9,Financial Services,73600,762,817,1968.0,57,jpmorganchase.com
+Delhivery,6300,3.8,Logistics,19500,484,102,2011.0,14,delhivery.com
+Hindustan Unilever ,6300,4.2,FMCG,21400,398,45,1872.0,153,hul.co.in
+Jana Small Finance Bank,6300,3.8,Banking,14800,255,24,2006.0,19,janabank.com
+Optum Global Solutions,6300,4.0,IT Services & Consulting,40500,635,91,2002.0,23,optum.in
+Lupin,6200,4.1,Pharma,22400,357,106,1968.0,57,lupin.com
+Hexaware Technologies,6200,3.5,IT Services & Consulting,48300,727,169,1990.0,35,hexaware.com Company contact no.2267919595 E-mailmarketing@hexaware.com
+L&T Construction,6200,4.0,Engineering & Construction,18700,771,0,1944.0,81,lntecc.com
+Zydus Lifesciences,6200,4.1,Pharma,18900,327,26,1952.0,73,zyduslife.com
+Equitas Small Finance Bank,6100,4.5,Banking,12200,445,1100,2007.0,18,equitasbank.com
+JSW Steel,6100,3.9,Iron & Steel,27200,612,113,1982.0,43,jsw.in
+Sun Pharmaceutical Industries,6000,4.0,Pharma,21900,414,194,1983.0,42,sunpharma.com Company contact no.2243244324 E-mailjanet.metz@sunpharma.com
+ITC,5800,3.9,FMCG,22700,571,79,1910.0,115,itcportal.com
+KPMG India,5800,3.5,Management Consulting,54200,812,1200,1987.0,38,kpmg.com
+FIS,5700,3.9,IT Services & Consulting,38000,494,249,1968.0,57,fisglobal.com
+HCL Group,5700,3.6,IT Services & Consulting,48700,464,4,1976.0,49,hcl.com
+Axis Max Life Insurance,5600,4.1,Insurance,18300,320,210,2000.0,25,maxlifeinsurance.com
+Ujjivan Small Finance Bank,5500,4.1,Banking,12400,242,29,2017.0,8,ujjivansfb.in
+Ekart Logistics,5600,3.9,Unknown,14200,319,1,2009.0,16,ekartlogistics.com
+Tata Projects,5500,4.2,Engineering & Construction,20300,461,27,1979.0,46,tataprojects.com Company contact no.2267402900 E-mailtpl@tataprojects.com
+Oracle,5400,3.7,Software Product,57300,871,1200,1977.0,48,oracle.com
+Indian Army,5400,4.7,Defence & Aerospace,9400,156,0,1895.0,130,indianarmy.nic.in
+IIFL Finance,5400,4.0,NBFC,14500,262,50,1995.0,30,iifl.com
+Megha Engineering & Infrastructures,5300,3.9,Engineering & Construction,16700,457,23,1989.0,36,meil.in
+Muthoot Finance,5200,3.6,NBFC,12200,271,145,1939.0,86,muthootfinance.com
+eClerx,5200,3.3,IT Services & Consulting,29100,542,53,2000.0,25,eclerx.com
+Udaan,5100,4.0,Internet,17000,338,6,2016.0,9,udaan.com
+Omega Healthcare,5200,3.7,BPO,23300,460,170,2003.0,22,omegahms.com
+Bajaj Allianz Life Insurance,5100,3.9,Insurance,16000,344,146,2001.0,24,bajajallianzlife.com
+JLL,5100,4.1,Real Estate,21600,376,333,1999.0,26,jll.co.in
+L&T Technology Services,5100,3.3,IT Services & Consulting,38800,548,525,2012.0,13,Ltts.com
+Virtusa Consulting Services,5000,3.8,IT Services & Consulting,53100,597,28,1996.0,29,virtusa.com
+Coforge,5100,3.3,IT Services & Consulting,42000,545,323,1996.0,29,indiamart.com
+Indiamart Intermesh,5000,3.6,Internet,19000,658,673,1992.0,33,coforge.com
+HSBC Group,4900,3.9,Financial Services,37500,494,168,1865.0,160,hsbc.com
+Siemens,4900,4.1,Industrial Automation,30900,434,1200,1867.0,158,siemens.com
+Aurobindo Pharma,4900,4.0,Pharma,21500,247,16,1986.0,39,aurobindo.com
+Shapoorji Pallonji Group,4800,4.1,Engineering & Construction,14900,344,36,1865.0,160,shapoorjipallonji.com
+Standard Chartered,4800,3.7,Banking,39800,275,0,1853.0,172,sc.com
+Firstsource Solutions,4800,3.6,BPO,22500,309,112,2001.0,24,firstsource.com
+DMart,4800,3.9,Retail,16000,413,110,2002.0,23,dmartindia.com
+CGI Group,4800,4.0,IT Services & Consulting,43400,501,200,1976.0,49,cgi.com
+Cholamandalam Investment & Finance,4800,3.9,Financial Services,11400,200,25,1978.0,47,cholamandalam.com
+GlobalLogic,4700,3.7,IT Services & Consulting,36200,600,45,2000.0,25,globallogic.com
+Apollo Hospitals,4700,4.1,Healthcare,15900,366,39,1983.0,42,apollohospitals.com
+Ashok Leyland,4600,4.1,Automobile,18100,250,1,1948.0,77,ashokleyland.com
+ICICI Lombard General Insurance Company,4700,3.7,Insurance,18800,289,83,2001.0,24,icicilombard.com
+BigBasket,4700,3.9,Internet,17600,369,59,2011.0,14,bigbasket.com Company contact no.8601231000 E-mailcustomerservice@bigbasket.com
+Cyient,4600,3.7,IT Services & Consulting,26400,299,70,1991.0,34,cyient.com
+Bosch Global Software Technologies,4600,3.9,IT Services & Consulting,36500,348,22,1997.0,28,bosch-softwaretechnologies.com
+UST,4600,3.8,IT Services & Consulting,36800,524,231,1999.0,26,ust.com
+Citicorp,4600,3.7,Financial Services,44900,575,0,1997.0,28,citigroup.com
+Hero MotoCorp,4500,4.1,Automobile,14900,349,0,1984.0,41,heromotocorp.com
+Mahindra Finance,4600,4.1,NBFC,11200,159,47,1991.0,34,mahindrafinance.com
+JustDial,4500,3.5,Internet,14700,335,47,1996.0,29,justdial.com
+Eviden,4400,3.6,IT Services & Consulting,29800,303,51,Not Available,0,eviden.com
+Vivo,4400,4.1,Consumer Electronics & Appliances,13300,200,6,2009.0,16,vivo.com
+SMFG India Credit,4400,4.0,NBFC,10600,168,100,2007.0,18,smfgindiacredit.com
+Home Credit Finance,4300,4.1,NBFC,10400,116,90,2012.0,13,homecredit.co.in
+Manappuram Finance,4400,3.9,NBFC,8300,157,36,1949.0,76,manappuram.com
+BNY,4300,3.9,Financial Services,28800,354,59,1784.0,241,bny.com
+Atos,4300,3.8,IT Services & Consulting,32000,384,37,2000.0,25,atos.net
+TVS Motor,4300,4.0,Automobile,14900,327,4,1979.0,46,tvsmotor.com
+IQVIA,4300,3.9,Clinical Research,28200,474,27,1982.0,43,iqvia.com
+Swiggy,4300,3.8,Internet,21000,444,178,2014.0,11,swiggy.com
+SBI Cards & Payment Services,4200,3.7,Financial Services,15200,241,49,1998.0,27,sbicard.com
+Nagarro,4200,4.0,IT Services & Consulting,27900,770,338,1996.0,29,nagarro.com
+OPPO,4200,4.0,Consumer Electronics & Appliances,12300,218,7,2004.0,21,oppo.com
+Persistent Systems,4100,3.5,IT Services & Consulting,38700,615,209,1990.0,35,persistent.com Company contact no.2067462084 E-mailinfo@persistent.com
+Kalpataru Projects International,4200,4.1,Engineering & Construction,12600,255,1,1981.0,44,kalpataruprojects.com
+Amdocs,4100,3.7,Software Product,35700,520,46,1982.0,43,amdocs.com
+Bosch,4000,4.2,Auto Components,20100,336,275,1886.0,139,bosch.com
+CBRE,4100,4.2,Real Estate,17300,281,49,1906.0,119,cbre.co.in
+NTT Data,4100,3.8,IT Services & Consulting,29000,633,55,1988.0,37,global.ntt
+State Bank of India,4000,3.8,Banking,11000,246,0,1806.0,219,sbi.co.in
+Hewlett Packard Enterprise,4000,4.2,IT Services & Consulting,27000,235,6,2015.0,10,hpe.com
+Mahindra Logistics,4000,3.9,Logistics,13400,204,11,2000.0,25,mahindralogistics.com
+JBM Group,4000,4.0,Auto Components,13800,286,27,1983.0,42,jbmgroup.com
+SBI Life Insurance Company,4000,3.8,Insurance,11000,241,5,2001.0,24,sbilife.co.in
+Schneider Electric,4000,4.1,Industrial Automation,21900,376,432,1999.0,26,schneiderelectric.com
+Dell,4000,3.9,Consumer Electronics & Appliances,27700,393,49,1984.0,41,dell.com
+PolicyBazaar,4100,3.6,Internet,15200,416,154,2008.0,17,policybazaar.com
+Ecom Express,3900,3.8,Logistics,9500,211,30,2012.0,13,ecomexpress.in
+Nagarjuna Construction Company,3900,4.1,Engineering & Construction,10800,327,24,1998.0,27,ncclimited.com
+Piramal Capital Housing Finance,3900,4.2,NBFC,9000,189,1,2020.0,5,piramalfinance.com
+KEC International,3800,4.0,Engineering & Construction,12000,320,3,1945.0,80,kecrpg.com
+Aditya Birla Fashion and Retail,3800,4.1,Fashion & Textile,12400,213,13,1988.0,37,abfrl.com
+Hyundai Motor India Limited,3700,4.3,Automobile,12900,268,7,1967.0,58,hyundai.com
+Varun Beverages,3700,4.0,Beverage,10900,246,64,1991.0,34,varunbeverages.com
+CARS24 ,3700,3.5,Internet,14200,341,119,2015.0,10,cars24.com
+Randstad,3700,3.8,Recruitment,15300,272,85,1992.0,33,randstad.in
+Oyo Rooms,3600,3.3,Hospitality,20000,221,63,2012.0,13,oyorooms.com
+EY Global Delivery Services ( EY GDS),3600,3.6,Accounting & Auditing,34300,771,9,2002.0,23,ey.com
+Bajaj Auto,3600,3.9,Automobile,13600,277,100,1945.0,80,bajajauto.com
+Deutsche Bank,3600,3.9,Banking,31900,372,913,1870.0,155,db.com
+L&T Finance,3600,3.9,NBFC,11000,160,7,1994.0,31,ltfinance.com
+Reliance Communications,3500,4.0,Telecom,10700,92,0,2002.0,23,rcom.co.in
+Intas Pharmaceuticals,3600,4.1,Pharma,16200,219,36,1977.0,48,intaspharma.com
+ITC Infotech ,3600,3.6,IT Services & Consulting,28300,351,89,2000.0,25,itcinfotech.com
+Team Lease,3500,3.9,Recruitment,15300,213,0,2016.0,9,teamleasegroup.com
+R1 RCM,3500,3.9,BPO,18900,289,198,2007.0,18,r1rcm.com
+Tata Communications,3500,4.0,Telecom,23100,259,19,1986.0,39,tatacommunications.com
+Havells,3500,4.0,Electrical Equipment,12900,216,23,1983.0,42,havells.com
+Access Healthcare,3500,3.9,Analytics & KPO,21600,215,172,2011.0,14,accesshealthcare.com
+Royal Enfield,3500,4.2,Automobile,13800,162,1,1901.0,124,royalenfield.com
+John Deere,3400,4.1,Industrial Machinery,14800,238,21,2001.0,24,johndeere.com
+Hetero,3500,3.8,Pharma,14500,235,46,1993.0,32,hetero.com
+LG Electronics,3400,4.0,Consumer Electronics & Appliances,10500,207,1,1958.0,67,lg.com
+Thermax Limited,3400,4.1,Industrial Machinery,12200,261,36,1966.0,59,thermaxglobal.com
+Macleods Pharmaceuticals,3400,3.6,Unknown,14900,210,12,1986.0,39,macleodspharma.com
+Aakash Educational Services,3400,3.4,Education & Training,12400,317,86,1988.0,37,aakash.ac.in
+HDFC Ergo General Insurance,3300,3.9,Insurance,11600,155,0,2002.0,23,hdfcergo.com
+Tata AIA Life Insurance,3300,4.0,Insurance,12800,182,141,2001.0,24,tataaia.com
+Utkarsh Small Finance Bank,3300,3.8,Banking,10000,229,22,2009.0,16,utkarsh.bank
+Publicis Sapient,3300,3.5,IT Services & Consulting,27400,627,192,1990.0,35,careers.publicissapient.com Career pagehttps://careers.publicissapient.com
+DCB Bank,3300,3.8,Banking,9400,190,239,1930.0,95,dcbbank.com
+Cummins,3300,4.3,Industrial Machinery,15100,239,84,1919.0,106,cummins.com
+VE Commercial Vehicles,3200,3.9,Automobile,13100,225,8,2008.0,17,vecv.in
+PVR Inox,3200,4.0,Media & Entertainment,9400,172,33,1997.0,28,pvrcinemas.com
+Viatris,3200,4.2,Pharma,13800,141,5,2020.0,5,viatris.com
+Berger Paints,3200,3.7,Chemicals,9000,272,162,1923.0,102,bergerpaints.com
+Carelon Global Solutions,3200,3.9,Software Product,25000,368,14,Not Available,0,carelonglobal.in
+Godrej & Boyce Manufacturing,3200,3.9,Consumer Electronics & Appliances,15400,183,69,1897.0,128,godrej.com
+Samvardhana Motherson Group,3200,3.7,Auto Components,12600,221,7,1986.0,39,motherson.com
+Lenskart,3200,3.2,Internet,11100,325,144,2010.0,15,lenskart.com
+Subros,3200,3.8,Auto Components,12200,173,1,1985.0,40,subros.com
+Pidilite Industries,3200,4.3,Chemicals,10100,209,6,1959.0,66,pidilite.com
+Automatic Data Processing (ADP),3200,4.0,Software Product,20300,245,29,1949.0,76,in.adp.com
+Alembic Pharmaceuticals,3200,4.0,Pharma,14200,208,61,1907.0,118,alembicpharmaceuticals.com
+American Express,3200,4.2,Financial Services,21600,368,206,1850.0,175,americanexpress.com
+Bank of America,3200,4.2,Banking,25500,242,57,1998.0,27,bankofamerica.com
+Abbott,3100,4.1,Pharma,11200,153,266,1888.0,137,abbott.com
+Sodexo,3100,4.1,Facility Management Services,9700,166,100,1966.0,59,sodexo.com
+Jindal Steel and Power,3100,3.9,Iron & Steel,14200,325,18,1979.0,46,jindalsteel.com
+Hindalco Industries,3100,4.2,Metals & Mining,10700,221,61,1958.0,67,hindalco.com
+Bharat Electronics,3100,4.2,Electronics Manufacturing,12000,212,0,1954.0,71,bel-india.in
+RBL Bank,3100,3.6,Banking,17000,180,26,1943.0,82,rblbank.com
+Jubilant Foods Works,3100,3.7,Hospitality,8400,187,40,1995.0,30,jubilantfoodworks.com
+Kogta Financial India Limited,3000,4.7,NBFC,1700,86,50,1996.0,29,kogta.in
+Reliance Projects & Property Management Services,3100,4.0,IT Services & Consulting,6800,178,0,Not Available,0,ril.com
+Indian Oil Corporation,3100,4.4,Oil & Gas,7800,211,0,1959.0,66,iocl.com
+Future Group,3000,4.2,Retail,9300,80,0,2013.0,12,futuregroup.in
+Birlasoft,3100,3.6,IT Services & Consulting,28700,286,11,1995.0,30,birlasoft.com
+Synechron,3100,3.5,IT Services & Consulting,27400,369,179,2001.0,24,synechron.com
+Escorts Kubota Limited,3100,4.1,Automobile,12100,236,12,1944.0,81,escortskubota.com
+Cogent E Services,3000,3.3,Unknown,9500,246,2,2004.0,21,cogenteservices.com
+Maersk,3100,4.1,Logistics,17500,207,138,1904.0,121,maersk.com
+Dabur,3000,4.0,FMCG,8400,277,45,1884.0,141,dabur.com
+Marpu Foundation ,3000,4.8,Non-Profit,50,88,0,2016.0,9,marpu.org
+Reliance Digital,3000,4.1,Retail,7900,132,0,2007.0,18,reliancedigital.in
+Johnson Controls,3000,3.6,Industrial Automation,16300,265,244,1885.0,140,johnsoncontrols.in
+Ford Motor,3000,4.3,Automobile,14500,151,0,1903.0,122,corporate.ford.com
+"NTT DATA, Inc.",3000,4.0,IT Services & Consulting,26100,125,727,1967.0,58,us.nttdata.com Career pagehttps://us.nttdata.com/en/careers Follow us on naukrihttps://www.naukri.com
+State Street Corporation,3000,3.7,Financial Services,27500,233,4,1792.0,233,statestreet.com
+Glenmark Pharmaceuticals,2900,3.9,Pharma,11400,142,110,1977.0,48,glenmarkpharma.com
+Alkem Laboratories,2900,3.9,Pharma,9300,155,77,1973.0,52,alkemlabs.com
+Ipca Laboratories,3000,3.9,Pharma,11100,163,44,1949.0,76,ipca.com
+24/7 Customer,2900,3.5,Software Product,13300,176,28,2000.0,25,247.ai
+UBS,2900,3.9,Financial Services,29100,341,0,1998.0,27,ubs.com
+PNB MetLife,2900,3.4,Insurance,7600,157,313,2001.0,24,pnbmetlife.com
+Aarti Industries,2900,4.1,Agro Chemicals,13800,289,26,1975.0,50,aarti-industries.com
+Vishal Mega Mart,2900,3.7,Retail,6300,163,0,2008.0,17,vishalmegamart.com
+Kotak Mahindara Life Insurance,2900,3.7,Insurance,11600,226,103,2001.0,24,kotaklife.com
+Kyndryl,3000,4.0,IT Services & Consulting,21500,190,69,2022.0,3,kyndryl.com Career pagehttps://www.kyndryl.com/in/en/careers Follow us on naukrihttps://www.naukri.com/kyndryl-overview-5462642 Company contact no.9980851851 E-mailinquiry@kyndryl.com
+JK Cement,2900,4.1,Building Material,8900,275,0,1975.0,50,jkcement.com
+Honda Motorcycle & Scooter ,2900,4.1,Automobile,10900,157,0,2001.0,24,honda2wheelersindia.com
+KPIT Technologies,2900,3.4,Software Product,21000,292,33,1990.0,35,kpit.com
+MRF Tyres,2900,3.7,Auto Components,11500,314,17,1946.0,79,mrftyres.com
+Indian Air Force,2800,4.5,Defence & Aerospace,5100,56,0,1932.0,93,indianairforce.nic.in
+Hindustan Coca Cola Beverages,2800,4.1,Beverage,7300,140,48,1997.0,28,hccb.in
+HARMAN,2800,3.7,Consumer Electronics & Appliances,23600,267,326,2009.0,16,harman.com
+Motilal Oswal Financial Services,2900,3.7,Financial Services,10500,275,36,1987.0,38,motilaloswalgroup.com
+DTDC Express,2800,3.7,Logistics,8500,156,19,1990.0,35,dtdc.in
+IGT Solutions,2800,3.3,IT Services & Consulting,12400,222,115,1998.0,27,igtsolutions.com
+Aditya Birla Sun Life Insurance,2900,4.0,Insurance,9100,140,2,2000.0,25,lifeinsurance.adityabirlacapital.com
+Reliance Nippon Life Insurance,2800,3.6,Insurance,8300,141,7,2000.0,25,reliancenipponlife.com
+ABB,2800,4.1,Industrial Machinery,16000,243,22,1988.0,37,global.abb
+Conduent,2800,3.5,BPO,17600,199,54,2017.0,8,conduent.com
+Ceat Tyres,2800,4.0,Auto Components,12300,169,1,1958.0,67,ceat.com
+NatWest Group,2800,4.0,Banking,19600,209,0,Not Available,0,natwestgroup.com
+Square Yards,2700,3.7,Internet,8700,204,55,2014.0,11,squareyards.com
+GeBBS Healthcare Solutions,2800,3.7,Healthcare,11200,151,47,2005.0,20,gebbs.com
+InterGlobe Aviation,2700,3.6,Aviation,12900,325,32,2005.0,20,goindigo.in
+Grasim Industries,2800,4.0,Building Material,10800,216,4,1947.0,78,grasim.com
+Whitehat jr,2700,3.4,EdTech,9500,262,0,2018.0,7,whitehatjr.com
+UnitedHealth,2700,4.0,Healthcare,17100,84,0,1977.0,48,unitedhealthgroup.com
+Alstom Transportation,2700,3.7,Engineering & Construction,13000,247,115,1928.0,97,alstom.com
+ArcelorMittal Nippon Steel,2700,4.1,Iron & Steel,10100,235,11,Not Available,0,amns.in
+RSPL Group,2700,4.1,FMCG,9000,196,31,Not Available,0,rsplgroup.com
+Tata Capital,2700,4.0,NBFC,9600,144,1100,2007.0,18,tatacapital.com
+CMS IT Services,2700,3.1,IT Services & Consulting,10000,138,5,2014.0,11,cmsitservices.com
+Max Healthcare,2700,4.1,Healthcare,9600,145,104,2001.0,24,maxhealthcare.in
+Tata Technologies,2700,3.6,Engineering & Construction,20500,267,115,1989.0,36,tatatechnologies.com
+Tata AIG,2600,4.1,Insurance,10700,160,119,2000.0,25,tataaig.com
+PepsiCo,2600,4.0,Food Processing,11400,203,319,1965.0,60,pepsicoindia.co.in
+S&P Global,2600,4.1,Analytics & KPO,18100,285,251,1860.0,165,spglobal.com
+Titan Company,2600,4.3,Retail,8900,159,68,1984.0,41,titancompany.in
+Varroc Group,2600,3.6,Auto Components,8900,182,16,1988.0,37,varroc.com
+UNO Minda,2600,4.0,Auto Components,9700,186,15,1958.0,67,unominda.com
+Amazon Transportation Services,2600,4.2,Unknown,7600,229,0,2012.0,13,amazon.in
+UPL,2600,4.1,Agro Chemicals,10900,182,65,1969.0,56,upl-ltd.com
+ACC,2600,3.9,Building Material,9300,198,2,1936.0,89,acclimited.com
+Zensar Technologies,2600,3.7,IT Services & Consulting,25300,256,296,2001.0,24,zensar.com
+Torrent Pharmaceuticals,2600,3.9,Pharma,10000,131,46,1971.0,54,torrentpharma.com
+Croma,2600,4.0,Retail,7700,137,48,2006.0,19,croma.com
+Mankind Pharma,2500,3.9,Pharma,8600,203,16,1995.0,30,mankindpharma.com
+Walmart,2600,3.7,Retail,18000,390,242,2009.0,16,walmart.com
+Afcons Infrastructure,2500,4.2,Engineering & Construction,8100,215,4,1959.0,66,afcons.com
+Shoppers Stop,2500,4.1,Retail,7100,115,9,1991.0,34,shoppersstop.com
+Bajaj Allianz General Insurance,2500,3.9,Insurance,8900,98,284,Not Available,0,bajajallianz.com
+Societe Generale Global Solution Centre,2500,3.8,IT Services & Consulting,20700,257,23,2000.0,25,globalsolutioncenter.societegenerale.in
+Barclays,2600,3.8,Banking,25500,279,0,1690.0,335,home.barclays
+Dilip Buildcon,2500,4.0,Engineering & Construction,8100,148,11,1987.0,38,dilipbuildcon.co.in
+TVS Credit,2500,4.3,NBFC,6600,115,24,2008.0,17,tvscredit.com
+I Process Services,2500,3.9,Unknown,5400,105,0,2005.0,20,iprocess.in
+Quest Global,2500,3.6,IT Services & Consulting,19000,312,107,1997.0,28,quest-global.com
+HDFC Sales,2500,4.0,Financial Services,8100,168,26,2004.0,21,hdfcsales.com
+Capita,2400,3.6,IT Services & Consulting,13700,149,46,2005.0,20,capita.com
+Flex,2400,4.0,Electronics Manufacturing,16600,190,59,1969.0,56,flex.com
+Sahrudaya Healthcare (Medicover Hospitals),2400,4.5,Healthcare,3200,126,29,2011.0,14,medicoverhospitals.in
+Nokia,2500,4.1,Telecom,15200,269,77,1865.0,160,nokia.com
+MSN Laboratories,2400,3.7,Pharma,8500,137,49,2003.0,22,msnlabs.com
+ElasticRun,2400,3.5,Logistics,6300,255,6,2016.0,9,elastic.run
+Fiserv,2400,3.0,FinTech,18400,176,41,1984.0,41,fiserv.com
+PhonePe,2500,4.0,FinTech,10600,313,147,2015.0,10,phonepe.com
+Apollo Tyres,2400,4.0,Auto Components,9500,134,3,1972.0,53,apollotyres.com
+Nestle,2400,3.9,FMCG,9300,240,76,1959.0,66,nestle.in
+IKS Health,2400,3.6,BPO,10100,235,42,2007.0,18,ikshealth.com
+Statestreet HCL Services,2300,3.3,BPO,15900,211,0,2012.0,13,statestreet.com
+GATI-KWE ,2300,3.9,Logistics,5600,89,5,2012.0,13,gati.com
+Suzlon Group,2300,4.1,Power,7600,132,49,1995.0,30,suzlon.com
+Zomato,2400,3.8,Internet,13100,317,3,2008.0,17,eternal.com
+Landmark Group,2300,4.0,Retail,9200,152,3,1973.0,52,landmarkgroup.com
+AGS Health,2300,4.0,Analytics & KPO,10600,164,29,2011.0,14,agshealth.com
+IDFC FIRST Bharat ,2300,4.4,Financial Services,4600,112,0,2016.0,9,idfcbharat.com
+Sammaan Capital Limited,2300,3.7,NBFC,7300,105,21,2005.0,20,indiabullshomeloans.com
+Blue Dart Express,2300,4.0,Logistics,6400,104,4,1983.0,42,bluedart.com
+BlackBuck,2300,3.8,Internet,6500,184,7,2015.0,10,blackbuck.com
+Fujitsu,2300,3.8,IT Services & Consulting,16300,189,82,1935.0,90,fujitsu.com
+DS Group,2300,4.1,FMCG,6800,155,35,1929.0,96,dsgroup.com
+Paras Hospital,2300,4.4,Healthcare,3000,82,25,2006.0,19,parashospitals.com
+Yazaki,2300,3.8,Auto Components,8200,139,6,1941.0,84,yazaki-group.com
+Shree Cement,2300,3.8,Building Material,9300,164,0,1979.0,46,shreecement.com
+Domino's Pizza,2300,3.9,Unknown,4200,90,0,1960.0,65,dominos.com
+Tata Elxsi,2300,3.8,IT Services & Consulting,19600,307,22,1989.0,36,tataelxsi.com
+XpressBees,2300,3.6,Unknown,7700,169,4,2015.0,10,xpressbees.com
+Bajaj Electricals,2300,4.0,Consumer Electronics & Appliances,7700,128,65,1938.0,87,bajajelectricals.com
+Britannia,2300,4.0,FMCG,7700,173,11,1892.0,133,britannia.co.in
+Micro Labs,2300,3.6,Pharma,9600,132,9,1973.0,52,microlabsltd.com
+KPMG Global Services,2300,3.5,Management Consulting,20100,228,0,Not Available,0,kpmg.com
+Sterlite Technologies,2200,3.8,Hardware & Networking,10200,167,75,1988.0,37,stl.tech
+Exide Industries,2200,3.5,Auto Components,8000,176,53,1947.0,78,exideindustries.com
+G4S,2200,4.0,Law Enforcement & Security,4900,103,28,1996.0,29,g4s.com
+Indus Towers,2300,3.8,Hardware & Networking,8200,187,46,2007.0,18,industowers.com
+Axis Direct,2200,3.8,Financial Services,5300,79,12,1995.0,30,kochartech.com
+KocharTech,2200,3.9,IT Services & Consulting,3900,73,48,2011.0,14,axisdirect.in
+TVS Supply Chain Solutions,2200,3.8,Unknown,8200,136,3,1896.0,129,tvsscs.com
+Voltas,2200,4.0,Consumer Electronics & Appliances,8300,133,5,1954.0,71,voltas.com
+Capgemini Engineering,2200,3.5,IT Services & Consulting,16700,370,99,Not Available,0,capgemini.com
+McDonald's,2200,4.1,Unknown,4700,126,3,1955.0,70,mcdonalds.com
+VVDN Technologies,2200,3.6,IT Services & Consulting,11800,203,10,2007.0,18,vvdntech.com
+KFintech,2200,3.5,FinTech,10000,143,12,2017.0,8,kfintech.com
+Jindal Stainless,2200,4.2,Iron & Steel,10000,220,6,1970.0,55,jslstainless.com
+ZS,2200,3.3,Management Consulting,16800,457,160,1983.0,42,zs.com
+Patanjali Ayurved,2200,3.9,FMCG,6300,112,0,2006.0,19,patanjaliayurved.net
+Alldigi Tech,2200,4.0,BPO,7100,202,34,2000.0,25,allsectech.com
+Blinkit,2200,3.7,Internet,9500,199,0,2013.0,12,blinkit.com
+Fortis Healthcare,2200,4.0,Healthcare,7400,134,78,1996.0,29,fortishealthcare.com
+Dalmia Bharat Cement,2200,4.0,Building Material,8200,148,1,1935.0,90,dalmiacement.com
+Tractors and Farm Equipment,2100,4.0,Industrial Machinery,8200,111,13,1960.0,65,tafe.com
+SRF,2200,4.1,Chemicals,8200,184,12,1970.0,55,srf.com
+Shell,2200,4.0,Oil & Gas,13300,197,10,1907.0,118,shell.in
+Blue Star,2100,4.1,Consumer Electronics & Appliances,9200,169,33,1943.0,82,bluestarindia.com
+ACT Fibernet,2200,4.0,Telecom,7500,139,57,2008.0,17,actcorp.in
+NoBroker,2100,3.2,Real Estate,9400,241,91,2014.0,11,nobroker.in
+Movate,2100,3.3,IT Services & Consulting,13900,264,82,1996.0,29,movate.com
+Himalaya Wellness,2100,4.1,Unknown,5900,116,6,1930.0,95,himalayawellness.in
+Taj Hotels Resorts and Palaces,2100,4.2,Unknown,4700,123,0,1903.0,122,tajhotels.com
+Sonalika Tractors,2100,3.7,Automobile,8500,133,0,1969.0,56,sonalika.com
+Huawei Technologies,2100,4.0,Telecom,9900,116,2,2002.0,23,huawei.com
+Kansai Nerolac Paints,2100,3.8,Chemicals,7000,157,4,1920.0,105,nerolac.com
+Ajanta Pharma,2100,4.0,Pharma,8600,124,25,1973.0,52,ajantapharma.com
+V-Mart,2100,4.1,Retail,4300,152,18,2002.0,23,vmartretail.com
+Datamatics Global Services,2100,3.4,IT Services & Consulting,11600,165,95,1975.0,50,datamatics.com
+Foundever,2100,3.6,BPO,7700,152,98,1985.0,40,foundever.com
+Lava International,2000,4.0,Consumer Electronics & Appliances,4700,72,5,2009.0,16,lavamobiles.com
+Info Edge,2100,3.9,Internet,11200,328,457,1995.0,30,infoedge.in
+Mahindra Rural Housing Finance,2000,4.0,NBFC,4900,88,15,2007.0,18,mahindrahomefinance.com
+suzuki motor gujarat,2000,4.2,Automobile,7300,179,12,Not Available,0,marutisuzuki.com
+Akums Drugs & Pharmaceuticals Limited,2000,4.4,Pharma,6000,298,13,2004.0,21,akums.in
+Simplex Infrastructures,2000,3.3,Engineering & Construction,5600,69,0,1924.0,101,simplexinfra.com
+Lifestyle,2000,4.3,Retail,7000,67,11,1999.0,26,lifestylestores.com
+Aditya Birla Group,2000,4.1,Building Material,10100,200,1,1857.0,168,adityabirla.com
+3i Infotech,2000,3.4,IT Services & Consulting,10800,148,45,1993.0,32,3i-infotech.com
+MagicBricks,1400,4.4,Internet,4300,334,44,2006.0,19,magicbricks.com
+Unacademy,2000,3.0,EdTech,9700,212,133,2015.0,10,unacademy.com
+Cholamandalam MS General Insurance,2000,3.8,Insurance,5800,95,0,2001.0,24,cholainsurance.com
+Gallagher,2000,3.7,Insurance,12100,227,35,1927.0,98,linktr.ee
+ESAF Small Finance Bank,2000,3.7,Banking,6600,121,32,2016.0,9,esafbank.com
+Mahindra Holidays & Resorts,2000,3.5,Hospitality,5900,105,59,1996.0,29,clubmahindra.com
+BT Group,2000,3.9,Telecom,10700,187,9,1846.0,179,bt.com
+Cybage,2000,3.8,IT Services & Consulting,16800,194,24,1995.0,30,cybage.com
+Ola Cabs,2000,3.4,Internet,10600,143,8,2010.0,15,olacabs.com
+Myntra,2000,4.0,Internet,9900,220,56,2007.0,18,life.myntra.com
+ICICI Securities,2000,3.9,Financial Services,8900,167,5,1995.0,30,icicisecurities.com
+Parle Agro,2000,4.0,Beverage,6400,108,4,1984.0,41,parleagro.com
+Intellect Design Arena,2000,3.9,Software Product,12000,163,13,2011.0,14,intellectdesign.com
+Delhi Public School,2000,3.9,Unknown,5400,114,66,1998.0,27,dpsfamily.org
+Eureka Forbes,2000,3.7,Consumer Electronics & Appliances,5500,72,3,1982.0,43,eurekaforbes.com
+Care Health Insurance,2000,3.6,Internet,8000,122,58,2012.0,13,careinsurance.com
+Syngene International,2000,3.9,Clinical Research,11600,163,56,1993.0,32,syngeneintl.com
+JCB,2000,3.9,Unknown,9000,138,0,1945.0,80,jcb.com
+State Street Syntel,1900,3.7,Financial Services,8700,76,0,2004.0,21,syntelinc.com
+Biocon Limited,2000,3.9,Biotechnology,11600,158,17,1978.0,47,biocon.com
+Emcure Pharmaceuticals,2000,3.7,Unknown,8100,104,42,1983.0,42,emcure.com
+IntouchCX,2000,2.9,BPO,8400,201,91,2001.0,24,intouchcx.com
+Radisson Hotels,2000,4.1,Unknown,5400,79,131,1909.0,116,radissonhotels.com
+Xoriant,2000,4.1,IT Services & Consulting,11100,189,46,1990.0,35,xoriant.com Company contact no.2230511000 E-mailcareers@xoriant.com
+Nokia Networks,1900,4.2,Hardware & Networking,11700,113,0,Not Available,0,nokia.com
+Canara HSBC Life Insurance,2000,3.6,Insurance,6300,104,7,2008.0,17,canarahsbclife.com
+Star Health & Allied Insurance,2000,3.6,Insurance,8500,113,13,2006.0,19,starhealth.in
+DBS Bank,2000,3.8,Banking,12400,166,108,1968.0,57,dbs.com
+Extramarks Education,1900,3.4,EdTech,8000,164,24,2007.0,18,extramarks.com
+Adani Power,2000,3.9,Power,8200,235,0,2006.0,19,adanipower.com
+Cloudnine Hospital,2100,4.4,Healthcare,2600,221,248,2007.0,18,cloudninecare.com
+Planet Spark,2000,3.7,EdTech,3000,396,63,2017.0,8,planetspark.in
+Bharat Financial Inclusion,2000,3.9,NBFC,4200,75,14,1998.0,27,bfil.co.in
+Cadila Pharmaceuticals,1900,3.5,Pharma,7300,121,30,1951.0,74,cadilapharma.com
+Ninjacart,1900,4.0,Internet,5700,97,9,2015.0,10,ninjacart.in
+Indian Railways,1900,4.1,Railways,3500,89,0,1853.0,172,indianrailways.gov.in
+Sobha,1900,3.8,Real Estate,8000,140,75,1995.0,30,sobha.com
+GlaxoSmithKline Pharmaceuticals,1900,4.1,Pharma,5300,106,46,1830.0,195,gsk-india.com
+Ola Electric Mobility ,1900,3.3,Automobile,7700,235,0,2017.0,8,olaelectric.com
+Hero FinCorp,1900,4.0,NBFC,4900,93,13,1991.0,34,herofincorp.com
+BHEL,1900,4.1,Electrical Equipment,5200,116,0,1964.0,61,bhel.com
+Sopra Steria,1900,3.8,IT Services & Consulting,13500,129,244,1968.0,57,soprasteria.com Company contact no.0140672929 E-mailcontact-corp@soprasteria.com
+Photon Interactive,1900,4.0,IT Services & Consulting,6900,112,329,1999.0,26,photon.in
+Sagility,1900,3.9,BPO,8000,185,46,2022.0,3,sagilityhealth.com
+Straive,1900,3.4,Analytics & KPO,9100,187,39,1980.0,45,straive.com
+Cisco,1900,4.1,Hardware & Networking,17700,377,120,1984.0,41,cisco.com
+Aavas Financiers ,1800,3.9,NBFC,5800,97,59,2011.0,14,aavas.in
+Life Insurance Corporation of India,1800,4.3,Insurance,4300,74,1,1956.0,69,licindia.in
+Whirlpool,1900,3.9,Consumer Electronics & Appliances,8000,96,1,1911.0,114,whirlpoolcorp.com
+Bureau Veritas,1900,3.9,Other,7700,118,21,1828.0,197,group.bureauveritas.com
+Tata Advanced Systems,1900,3.7,Defence & Aerospace,10700,139,18,2007.0,18,tataadvancedsystems.com
+upGrad,1800,3.6,EdTech,8300,201,79,2015.0,10,upgrad.com
+Renault Nissan Technology & Business Centre India,1900,3.8,Automobile,13800,134,69,2007.0,18,rntbci.in
+Bharti AXA Life Insurance,1800,3.8,Insurance,5200,124,12,2006.0,19,bharti-axalife.com
+Shahi Exports,1800,4.0,Fashion & Textile,6700,104,32,1974.0,51,shahi.co.in
+GVK Emergency Management and Research Institute,1800,3.6,Unknown,4400,91,9,2005.0,20,emri.in
+Niva Bupa Health Insurance Company ,1900,3.6,Insurance,7500,124,28,2008.0,17,nivabupa.com
+Renault-Nissan,1800,4.1,Unknown,7600,110,0,2007.0,18,alliancernm.com
+Raymond Lifestyle Limited,1800,4.1,Fashion & Textile,6800,92,3,1925.0,100,raymondlifestyle.com
+Pfizer,1800,4.0,Pharma,5700,74,32,2004.0,21,pfizer.com
+Endurance Technologies,1800,3.9,Auto Components,7500,110,11,1985.0,40,endurancegroup.com
+Lodha Group,1800,4.0,Real Estate,8000,133,91,1980.0,45,lodhagroup.com
+Kia Motors,1800,3.9,Automobile,7500,136,9,1944.0,81,kia.com
+RMSI,1800,3.6,IT Services & Consulting,8000,153,17,1983.0,42,ambujacement.com
+Ambuja Cements,1800,3.9,Building Material,6000,113,0,1992.0,33,rmsi.com
+HSBC Electronic Data Processing,1800,4.1,Banking,9100,67,2,Not Available,0,hsbc.co.in
+Exl India,1800,3.5,Logistics,11800,108,1,1957.0,68,exlindia.com
+Force Motors,1800,3.6,Automobile,7800,124,3,1958.0,67,forcemotors.com
+Laurus Labs,1800,4.2,Pharma,6900,115,4,2005.0,20,lauruslabs.com
+Reliance Trends,1800,4.2,Retail,4400,106,0,2006.0,19,reliancetrends.com
+Panasonic Life Solutions India,1800,4.0,Consumer Electronics & Appliances,6000,74,20,1972.0,53,panasonic.com
+ValueLabs,1800,3.7,IT Services & Consulting,15100,192,76,1997.0,28,valuelabs.com
+Meesho,1800,3.7,Internet,7600,342,148,2015.0,10,meesho.com
+Apollo Pharmacy,1800,3.8,Unknown,5800,129,44,1983.0,42,apollopharmacy.in
+Bank of Baroda,1800,3.6,Banking,6300,96,1,1908.0,117,bankofbaroda.com
+CAMS,1800,3.7,Financial Services,7700,119,8,1988.0,37,camsonline.com
+Coromandel International,1800,4.1,Agro Chemicals,7000,101,26,1961.0,64,coromandel.biz
+Senco Gold,1700,4.5,Jewellery,1300,565,3,1994.0,31,sencogoldanddiamonds.com
+Aditya Birla Capital,1800,3.9,Financial Services,8100,157,2,2017.0,8,adityabirlacapital.com
+Allstate,1800,3.8,Insurance,11200,139,21,2012.0,13,allstate.com
+Poonawalla Fincorp,1700,3.8,NBFC,5100,64,14,1989.0,36,poonawallafincorp.com
+Microsoft Corporation,1800,4.0,Software Product,22800,564,0,1975.0,50,microsoft.com
+Sify Technologies,1700,3.8,IT Services & Consulting,9500,125,54,1995.0,30,sifytechnologies.com
+TCE,1800,3.8,Engineering & Construction,8100,253,432,1962.0,63,tce.co.in
+Cargill,1700,4.0,Food Processing,7700,95,130,1865.0,160,cargill.co.in
+Adani Wilmar,1700,4.1,FMCG,6400,111,11,1999.0,26,adaniwilmar.com
+Delphi TVS,1700,3.9,Auto Components,5500,88,0,1989.0,36,delphitvs.com
+SBI Securities,1800,3.8,Financial Services,6000,151,84,2006.0,19,sbisecurities.in
+Brakes India,1700,4.0,Auto Components,6700,73,2,1962.0,63,brakesindia.com
+Future Retail,1700,4.3,Retail,5200,54,0,1987.0,38,futureretail.co.in
+Future Generali India Life Insurance,1700,3.6,Insurance,6600,101,160,2007.0,18,general.futuregenerali.in
+Bharat Petroleum,1700,4.1,Oil & Gas,6600,152,0,1952.0,73,bharatpetroleum.com
+SAP,1800,4.2,Software Product,15500,286,271,1972.0,53,sap.com
+Physicswallah,1800,3.8,EdTech,5600,211,37,2019.0,6,pw.live
+Star Union Dai-ichi Life Insurance,1700,3.9,Insurance,4900,91,39,2009.0,16,sudlife.in
+SBI General Insurance,1700,3.7,Insurance,6200,105,24,2009.0,16,sbigeneral.in
+ITC Hotels,1700,4.1,Unknown,5400,86,0,1975.0,50,itchotels.in
+CitiusTech,1700,3.4,IT Services & Consulting,12900,279,21,2005.0,20,citiustech.com
+Google,1700,4.4,Software Product,20700,859,29,1998.0,27,googleoperationscenter.com
+Spark Minda,1700,3.9,Auto Components,6400,128,18,1958.0,67,sparkminda.com
+Tata Motors Finance,1700,4.1,NBFC,4800,67,2,1957.0,68,tmf.co.in
+Adani Group,1800,3.9,Power,8900,202,90,1988.0,37,adani.com
+YASH Technologies,1700,3.8,IT Services & Consulting,15600,152,439,1996.0,29,yash.com
+American Broadcasting Company,1600,4.0,Unknown,23100,553,17,Not Available,0,abc.com
+Dhani Loans and Services,1600,3.8,NBFC,4900,70,9,Not Available,0,dhaniloansandservices.com
+KENT RO Systems,1700,4.0,Consumer Electronics & Appliances,4600,84,7,1999.0,26,kent.co.in
+Power Mech Projects,1700,3.9,Engineering & Construction,6300,99,4,2007.0,18,powermechprojects.com
+Henry Harvin Education,1700,3.7,Unknown,788,14,38,2015.0,10,henryharvin.com
+Saint-Gobain,1700,4.0,Engineering & Construction,10100,175,51,1665.0,360,saint-gobain.com
+Crisil,1700,3.6,Analytics & KPO,11600,192,516,1987.0,38,crisil.com
+Kotak Securities,1700,3.6,Financial Services,8900,117,13,1994.0,31,kotaksecurities.com
+AECOM,1600,4.2,Engineering & Construction,6300,121,163,1990.0,35,aecom.com Company contact no.9727881000 E-mailtalismanSaber2017@aecom.com
+Gabriel India,1600,4.2,Auto Components,5600,101,0,1961.0,64,anandgroupindia.com
+L&T Energy Hydrocarbon,1600,3.9,Engineering & Construction,8100,97,1,2009.0,16,lnthydrocarbon.com
+Team Computers,1700,3.6,IT Services & Consulting,8100,106,128,1987.0,38,teamcomputers.com
+JK Tyres,1600,3.6,Auto Components,6600,98,2,1951.0,74,jktyre.com
+Novartis,1700,4.1,Pharma,8900,146,281,1996.0,29,novartis.com
+Mercedes-Benz Research and Development India,1700,3.8,IT Services & Consulting,15700,185,3,1996.0,29,mbrdi.co.in Career pagehttps://jobs.mercedes-benz.com/en?en=&parentorganization=[140]&positionlocation.country=[390] Company contact no.8061506600 E-mailmbrdi_ehs@mercedes-benz.com
+IDBI Bank,1600,3.5,Banking,5700,71,0,1964.0,61,idbi.com
+BNP Paribas,1700,3.8,Financial Services,14900,183,27,1848.0,177,group.bnpparibas
+NCR Corporation,1600,3.7,IT Services & Consulting,8500,129,301,1884.0,141,ncrvoyix.com
+Parle Products,1600,3.9,FMCG,3600,93,9,1929.0,96,parleproducts.com
+Sterling & Wilson,1600,4.1,Engineering & Construction,7600,66,23,1927.0,98,sterlingandwilson.com
+TaskUs,1700,3.3,BPO,7200,178,287,2008.0,17,taskus.com
+Lucas-TVS,1600,3.9,Auto Components,5800,75,3,1962.0,63,lucas-tvs.com
+Reliance General Insurance,1600,3.7,Insurance,6900,82,6,2000.0,25,reliancegeneral.co.in
+Microland,1600,3.4,IT Services & Consulting,11000,135,469,1989.0,36,microland.com
+Uflex,1600,3.8,Packaging,6600,110,65,1985.0,40,uflexltd.com Company contact no.01204012345 E-mailenquiry@uflexltd.com
+Paisabazaar.com,1600,3.4,Internet,6700,144,57,2014.0,11,paisabazaar.com
+Thomson Reuters,1600,4.1,Software Product,10300,115,253,2008.0,17,thomsonreuters.com
+Kalyan Jewellers,1600,4.6,Jewellery,1400,60,15,1993.0,32,kalyanjewellers.net
+FirstCry,1600,3.6,Internet,8300,175,23,2010.0,15,firstcry.com
+SGS,1600,3.9,Other,6000,99,41,1878.0,147,sgs.com
+Daikin,1600,4.1,Consumer Electronics & Appliances,6700,155,6,2000.0,25,daikin.com
+Morgan Stanley,1600,3.7,Financial Services,21600,297,1,1931.0,94,morganstanley.com
+Hindustan Aeronautics,1600,4.3,Defence & Aerospace,4200,74,0,1940.0,85,hal-india.co.in
+Infinite Computer Solutions,1600,3.4,IT Services & Consulting,12700,150,185,2001.0,24,infinite.com
+Philips,1600,3.8,Consumer Electronics & Appliances,10300,160,119,1930.0,95,philips.com
+Dr Lal PathLabs,1600,4.2,Healthcare,4400,130,58,1949.0,76,lalpathlabs.com
+Honeywell Automation,1600,3.8,Industrial Automation,11400,104,1,1906.0,119,honeywell.com
+Nuvoco Vistas,1600,4.1,Building Material,6200,99,20,2014.0,11,nuvoco.com
