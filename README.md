@@ -41,7 +41,7 @@ This Power BI project effectively visualizes employment and salary trends across
 
 
 ## 📂 Suggested Folder Structure
-Top10-CompanyTypes-PowerBI/\
+main/\
 ├── data/\
 │   └── top10_company_types.csv\
 ├── dashboards/\
