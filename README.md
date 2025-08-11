@@ -41,14 +41,14 @@ This Power BI project effectively visualizes employment and salary trends across
 
 
 ## 📂 Suggested Folder Structure
-Top10-CompanyTypes-PowerBI/
-├── data/
-│   └── top10_company_types.csv
-├── dashboards/
-│   ├── salary_analysis.png
-│   ├── job_analysis.png
-│   └── interview_analysis.png
-├── reports/
-│   └── PowerBI_Project_Report.pdf
-├── Top10_CompanyTypes.pbix
-├── README.md
+Top10-CompanyTypes-PowerBI/\
+├── data/\
+│   └── top10_company_types.csv\
+├── dashboards/\
+│   ├── salary_analysis.png\
+│   ├── job_analysis.png\
+│   └── interview_analysis.png\
+├── reports/\
+│   └── PowerBI_Project_Report.pdf\
+├── Top10_CompanyTypes.pbix\
+├── README.md\
