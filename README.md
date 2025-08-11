@@ -41,7 +41,7 @@ This Power BI project effectively visualizes employment and salary trends across
 
 
 ## 📂 Suggested Folder Structure
-main/\
+Power-BI-Project-Analysis-on-Top-10-Company-Types-from-AmbitionBox/\
 ├── data/\
 │   └── top10_company_types.csv\
 ├── dashboards/\
