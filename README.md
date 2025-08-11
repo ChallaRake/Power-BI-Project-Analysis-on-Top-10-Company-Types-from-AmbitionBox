@@ -45,10 +45,11 @@ Power-BI-Project-Analysis-on-Top-10-Company-Types-from-AmbitionBox/\
 ├── data/\
 │   └── top10_company_types.csv\
 ├── dashboards/\
-│   ├── salary_analysis.png\
-│   ├── job_analysis.png\
-│   └── interview_analysis.png\
+│   ├── 1-Salary_Analysis.jpg\
+│   ├── 2-Job_Analysis.jpg\
+│   └── 3-Interview_Analysis.jpg\
 ├── reports/\
 │   └── PowerBI_Project_Report.pdf\
 ├── AmbitionBox_PowerBI_Project.pbix\
 ├── README.md\
+
