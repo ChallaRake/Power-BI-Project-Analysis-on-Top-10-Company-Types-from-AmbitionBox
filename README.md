@@ -24,6 +24,12 @@ This Power BI project provides a detailed analysis of salaries, job availability
 - Total Jobs analyzed: **71K+**; Total Interviews analyzed: **212K+**.
 - Strong correlation between job openings and total salary allocation in high-demand sectors.
 
+## 📷 Dashboards
+
+### 💰 Salary Analysis
+![1-Salary_Analysis](https://github.com/user-attachments/assets/b373d875-4911-40a3-97e1-3468f8e1ecda)
+
+
 ## 📂 Suggested Folder Structure
 Top10-CompanyTypes-PowerBI/
 ├── data/
