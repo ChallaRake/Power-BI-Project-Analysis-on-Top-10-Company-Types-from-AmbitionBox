@@ -29,6 +29,12 @@ This Power BI project provides a detailed analysis of salaries, job availability
 ### 💰 Salary Analysis
 ![1-Salary_Analysis](https://github.com/user-attachments/assets/b373d875-4911-40a3-97e1-3468f8e1ecda)
 
+### 🏢 Job Availability Analysis
+![2-Job_Analysis](https://github.com/user-attachments/assets/f8506b0c-5e71-4605-9911-9a5932b19599)
+
+### 🎤 Interview Trends Analysis
+![3-Interview_Analysis](https://github.com/user-attachments/assets/4335c070-305d-4483-aa87-726ec66dbb85)
+
 
 ## 📂 Suggested Folder Structure
 Top10-CompanyTypes-PowerBI/
