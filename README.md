@@ -50,5 +50,5 @@ Power-BI-Project-Analysis-on-Top-10-Company-Types-from-AmbitionBox/\
 │   └── interview_analysis.png\
 ├── reports/\
 │   └── PowerBI_Project_Report.pdf\
-├── Top10_CompanyTypes.pbix\
+├── AmbitionBox_PowerBI_Project.pbix\
 ├── README.md\
